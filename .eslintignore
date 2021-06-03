@@ -1,0 +1,8 @@
+
+!src/*/__tests__/**/*.ts
+!**/*js
+build/**/*
+node_modules
+dist/**/*
+**/*.d.ts
+src/*.ts
